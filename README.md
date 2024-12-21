@@ -4,7 +4,7 @@
 
 A passionate developer from India, exploring and learning latest tech fields.
 
-- 📫 How to reach me **udayk2977@gmail.com**
+- 📫 How to reach me **iit2022023@iiita.ac.in**
 
 
 # 💻 Tech Stack:
